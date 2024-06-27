@@ -9,17 +9,17 @@ A text sentiment app analyzes written text to determine the emotional tone conve
 
 #### Clone the repository:
 
-bash
-Copy code
-``` git clone https://github.com/Lyten1/text-sentiment ```
+bash  
+Copy code  
+``` git clone https://github.com/Lyten1/text-sentiment ```  
 cd text-sentiment
 
 #### Usage
-Once the application is up and running, you can check your text:
+Once the application is up and running, you can check your text
 
-#### Contact
+### Contact
 If you have any questions or feedback, feel free to reach out:
 
-#####  Email: vlad.makoda@gmail.com
-#####GitHub: https://github.com/Lyten1
-#####LinkedIn: Vladyslav Makoda
+Email: vlad.makoda@gmail.com  
+GitHub: https://github.com/Lyten1  
+LinkedIn: Vladyslav Makoda  
