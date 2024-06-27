@@ -9,8 +9,6 @@ A text sentiment app analyzes written text to determine the emotional tone conve
 
 #### Clone the repository:
 
-| Clone the repository |
-| -------- |
 bash
 Copy code
 ``` git clone https://github.com/Lyten1/text-sentiment ```
